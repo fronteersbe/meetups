@@ -11,3 +11,4 @@ Hieronder vind je een overzicht van de personen die zich momenteel bezig houden 
 | Tom Janssens | @janssenstom  | Diest |
 | Andy Lemaire | @andylemaire  | Hasselt |
 | Roel Van Gils | @roelvangils  | Gent |
+| Stijn Janssen | @stijnj | Maaseik |
