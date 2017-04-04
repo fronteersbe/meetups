@@ -1,4 +1,5 @@
-- [ ] Contactpersoon: ?
+- [ ] Contactpersoon Fronteers: ?
+- [ ] Contactpersoon Locatie: ?
 - [ ] Locatie: ?
 - [ ] Capaciteit: ?
 - [ ] Presentatie 1: ?
