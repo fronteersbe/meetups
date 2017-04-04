@@ -1,0 +1,11 @@
+- [ ] Contactpersoon: ?
+- [ ] Locatie: ?
+- [ ] Capaciteit: ?
+- [ ] Presentatie 1: ?
+- [ ] Presentatie 2: ?
+- [ ] Detailpagina: ?
+- [ ] Blog-post: ?
+- [ ] Tweet: ?
+- [ ] Lanyrd-pagina: ?
+- [ ] Verantwoordelijke bedankingen: ?
+- [ ] Catering: ?
