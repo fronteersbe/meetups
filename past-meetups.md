@@ -15,6 +15,7 @@
 | KaHo St-Lieven | Gent | 2013 | https://fronteers.nl/bijeenkomsten/2013/kahosl |
 |  |  | 2012 | https://fronteers.nl/bijeenkomsten/2012/kahosl |
 | Kunstmaan | Leuven | 2015 | https://fronteers.nl/bijeenkomsten/2015/kunstmaan |
+|  |  | 2017 | https://fronteers.nl/bijeenkomsten/2017/kunstmaan |
 | Lessius | Mechelen | 2011 | https://fronteers.nl/bijeenkomsten/2011/lessius |
 | Microsoft | Zaventem | 2012 | https://fronteers.nl/bijeenkomsten/2012/microsoft |
 | MMLab | Gent | 2013 | https://fronteers.nl/bijeenkomsten/2013/mmlab |
