@@ -5,8 +5,6 @@
 - [ ] Presentatie 1: ?
 - [ ] Presentatie 2: ?
 - [ ] Detailpagina: ?
-- [ ] Blog-post: ?
-- [ ] Tweet: ?
-- [ ] Lanyrd-pagina: ?
+- [ ] Meetup.com
 - [ ] Verantwoordelijke bedankingen: ?
 - [ ] Catering: ?
