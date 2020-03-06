@@ -3,11 +3,11 @@
 
 >De doelstelling van Fronteers is de professionalisering van het beroep front-end web development. Daarbij streven wij naar erkenning, verbetering en ondersteuning van de (positie van) Nederlandstalige front-end webontwikkelaars.
 
-Hier bij de Belgische aftakking, #fronteersbe dus, organiseren we vnl meetups in de volgende steden: Antwerpen, Brugge, Brussel, Gent, Hasselt, Leuven, Mechelen en Kortrijk.
+Hier bij de Belgische aftakking, #fronteersbe dus, organiseren we voornamelijk meetups in de volgende steden: Antwerpen, Brugge, Brussel, Gent, Hasselt, Leuven, Mechelen en Kortrijk.
 
 ## #fronteersbe-meetups
 
-De issue tracker bij deze repository wordt gebruikt worden om het organiseren van Belgische #fronteersbe-evenementen overzichtelijk te houden.
+De issue tracker bij deze repository wordt gebruikt worden om het organiseren van Belgische fronteers meetups overzichtelijk te houden.
 
 ### meetup hosts & sponsors
 Wil je met jouw bedrijf/werkgever graag 1 van onze meetups hosten en sponsoren?
