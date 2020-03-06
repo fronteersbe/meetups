@@ -6,7 +6,7 @@
 | BetaGroup | Kortrijk | 2014 | https://fronteers.nl/bijeenkomsten/2014/betagroup |
 | Creative Gym | Mechelen | 2015 | https://fronteers.nl/bijeenkomsten/2015/the-creativity-gym |
 | Combell | Gent | 2012 | https://fronteers.nl/bijeenkomsten/2012/combell |
-| Crosos | Kontich | 2014 | https://fronteers.nl/bijeenkomsten/2014/cronos |
+| Cronos | Kontich | 2014 | https://fronteers.nl/bijeenkomsten/2014/cronos |
 | Digiti | Herentals | 2015 | https://fronteers.nl/bijeenkomsten/2015/digiti-2 |
 |  |  | 2015 | https://fronteers.nl/bijeenkomsten/2015/digiti |
 |  |  | 2013 | https://fronteers.nl/bijeenkomsten/2013/digiti |
