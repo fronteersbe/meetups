@@ -7,8 +7,4 @@ Hieronder vind je een overzicht van de personen die zich momenteel bezig houden 
 | ---- | ------- | ----- |
 | Sam Bellen | @sambego | Hasselt/Leuven |
 | Ibe Vanmeenen | @ibevanmeenen | Gent/Kortrijk |
-| Jannick Vandaele | @jnnck | Gent |
-| Tom Janssens | @janssenstom  | Diest |
-| Andy Lemaire | @andylemaire  | Hasselt |
-| Roel Van Gils | @roelvangils  | Gent |
-| Stijn Janssen | @stijnj | Maaseik |
+| Claudia Reynders | @mangamaui | Heel Vlaanderen |
